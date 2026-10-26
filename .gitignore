@@ -1,0 +1,12 @@
+# ModelSim / QuestaSim simulation artifacts
+sim/work/
+*.wlf
+transcript
+modelsim.ini.bak
+*.vstf
+
+# OS / Editor temporary files
+.DS_Store
+Thumbs.db
+*.swp
+*~
